@@ -48,7 +48,7 @@ First you need to edit remote server variables
 2. `server_ip`: The IP address or hostname of the remote server.
 3. `server_key`: The path to the SSH key for authentication.
 ----
-### [backup](https://github.com/IbrahimmAdel/Secure_Backup_Restore_Script/blob/master/scripts/backup.sh)
+### [backup](https://github.com/IbrahimmAdel/Secure-Backup-and-Restore-Script/blob/master/scripts/backup.sh)
 ----
 To perform a backup, use the `backup.sh` script. This script takes four parameters:
 1. `source_directory`: The directory containing files to be backed up.
@@ -79,5 +79,6 @@ Example:
 ![](https://github.com/IbrahimmAdel/Secure-Backup-and-Restore-Script/blob/master/videos/restore.gif)
 ----
 * ## **For more details: [Scripts](https://github.com/IbrahimmAdel/Secure_Backup_Restore_Bash/tree/master/scripts), [Screenshots](https://github.com/IbrahimmAdel/Secure_Backup_Restore_Bash/tree/master/Screenshots)** 
+
 
 
